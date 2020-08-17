@@ -56,14 +56,10 @@ body {
 
 /*HERO SECTION*/
 
-.hero {
+.social-links-item-link {
+    width: 44px;
+    height: 44px;
+    left: 655px;
+    top: 2139px;
 
-}
-
-.hero-title {
-
-}
-
-.description {
-            
 }
